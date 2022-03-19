@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alex, based in UAE.
 - 👀 I’m interested in AI applications in Water, Energy, Built Environment, Construction, and Property.
-- 🌱 I’m currently learning PyTorch
-- 💞️ I’m looking to collaborate on ideas that bridge digital and physical worlds.
+- 💞️ Looking to collaborate on ideas that bridge digital and physical worlds.
 - 📫 Reach me on ![alt text][2]  @AlexRxj or roxjar@gmail.com
 
 <!---
