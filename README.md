@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex, based in UAE.
 - 👀 I’m interested in AI applications in Water, Energy, Built Environment, Construction, and Property.
 - 💞️ Looking to collaborate on ideas that bridge digital and physical worlds.
-- 📫 Reach me on ![alt text][2]  @AlexRxj or roxjar@gmail.com
+- 📫 Reach me on ![alt text][2]  @reAlexByk or realexbyk@gmail.com
 
 <!---
 Roxjar/Roxjar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
